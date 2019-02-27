@@ -1,6 +1,4 @@
-
 # Igor Cheribulko
----
 
 ### Contacts: 
 
@@ -16,9 +14,9 @@
 
 ---
 #### Education:
-- 2001-2006 Yanka Kupala State University of Grodno                 
-- 2011-2017 Yanka Kupala State University of Grodno
-- 2016  Course of Software Testing Introduction 
+- 2001-2006 Yanka Kupala State University of Grodno: ["Physico-technical faculty"](https://ftf.grsu.by)                
+- 2011-2017 Yanka Kupala State University of Grodno: ["Faculty of Engineering and Construction"](https://fbt.grsu.by)  
+- 2016  [Course of Software Testing Introduction](https://belhard.academy/testing) 
 
 #### Work experience: 
 - 2006-2008 - I worked as an engineer in a factory ["GrodTorgMash"](http://www.grodtorgmash.com). I've designed new equipment for restaurant and cafe. 
@@ -38,9 +36,20 @@
 -  JavaScript
 -  Photoshop
 
+#### Developing experience:  
+
+- Fashion Blog
+- Wine Festival Schedule
+- Form a Story 
+- CSS Grid: Architecture Blog
+- Paint Store
+- Broadway
+
 #### Current moment
 - [The Rolling Scopes School](https://school.rollingscopes.com/) 
 
 #### Level of English: A2/B1
-- English Courses Mr.Language - until now  
+- English courses [Mr.English](http://mrenglish.by) - until now.  
+
+---  
 
